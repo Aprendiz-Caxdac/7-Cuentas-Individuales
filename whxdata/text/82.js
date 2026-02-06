@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","02. Conciliación de Capital"]],"2":[[" ","Nota",": usuario manifiesta no tener permisos para operar esa ventana."," ","Generar",": inicia el proceso que se desea ejecutar."," ","Limpiar",": restablece la vista actual, dejando los campos sin información."," ","Salir",": salir de la ventana actual."]],"4":[[" ","Conciliación de capital"]],"id":"82"})

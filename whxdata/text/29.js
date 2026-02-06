@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","12. Consulta del Log Archivos Planos – Giros"]],"2":[[" ","Ventana para consultar el log de archivos planos para giros a terceros."," ","Nota",": el usuario al momento del video manifiesta no utilizar esta opción, ni saber cómo se maneja."]],"5":[[" ","Consulta de log archivos planos –giros"]],"id":"29"})

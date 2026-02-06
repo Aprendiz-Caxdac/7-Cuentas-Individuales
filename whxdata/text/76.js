@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","01. Reporte del Formulario"]],"2":[[" ","Nota",": El usuario manifiesta que esta opción no se utiliza actualmente."," ","Imprimir",": imprime la hoja actual."," ","Salir",": salir de la ventana actual."]],"4":[[" ","Reporte del Formulario"]],"id":"76"})

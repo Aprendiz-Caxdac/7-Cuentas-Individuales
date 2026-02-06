@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","09. Ajuste Anual de Cuotas"]],"2":[[" ","Nota",": no hay información por parte del usuario acerca del funcionamiento de esta ventana."," ","Limpiar",": restablece la vista actual, dejando los campos sin información."," ","Salir",": salir de la ventana actual."]],"5":[[" ","Ajuste Anual de Cuotas"]],"id":"68"})

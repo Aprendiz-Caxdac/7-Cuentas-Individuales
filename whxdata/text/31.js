@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","07. Capitales a un periodo"]],"2":[[" ","Ventana para generar los saldos de capitales a un periodo determinado. Se selecciona el mes y el año y clic en el botón generar. El reporte se puede visualizar por plan o por total afiliado."," ","Reporte por Plan."," ","Reporte por afiliado."]],"5":[[" ","Capitales a un periodo"]],"id":"31"})

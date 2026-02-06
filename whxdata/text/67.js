@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","21. Configurar Impresora"]],"1":[[" ","Configurar Impresora"]],"2":[[" ","Nota",": no hay información por parte del usuario acerca del funcionamiento de esta ventana."]],"id":"67"})

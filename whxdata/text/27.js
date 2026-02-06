@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","10. Ajuste de sobrante de los ahorros"]],"2":[[" ","Ventana para cancelar los saldos pequeños que se generen en la cancelación de los planes de ahorro."," ","Nota",": no se utiliza en el momento."]],"5":[[" ","Ajuste de sobrante de los ahorros"]],"id":"27"})

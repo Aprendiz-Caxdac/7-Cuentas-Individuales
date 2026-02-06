@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú DISTRIBUCIÓN FONDO ANTIGUO"]],"1":[[" ","Submenú DISTRIBUCIÓN FONDO ANTIGUO"]],"2":[[" ","Al dar clic en el submenú ","Distribución Fondo Antiguo",", se despliega el siguiente submenú:"]],"id":"17"})

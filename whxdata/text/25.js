@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú INFORMACIÓN PARA CAPACIDAD ECONÓMICA"]],"1":[[" ","Submenú INFORMACIÓN PARA CAPACIDAD ECONÓMICA"]],"2":[[" ","Al dar clic en el submenú ","Información para Capacidad Económica",", se despliega el siguiente submenú:"]],"id":"25"})

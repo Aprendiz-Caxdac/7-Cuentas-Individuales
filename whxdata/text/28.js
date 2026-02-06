@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","01. Traslado de Reserva a Cuenta por Pagar"]],"2":[[" ","Esta ventana permite finalizar los planes correspondientes al Fondo Antiguo, realizando el cierre de las cuentas de reserva y la generación de las cuentas por pagar a los socios asociadas a dichos planes."]],"5":[[" ","Traslado de reserva a Cuenta por pagar"]],"id":"28"})

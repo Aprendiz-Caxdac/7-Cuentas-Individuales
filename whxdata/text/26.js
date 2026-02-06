@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","02. Cobros Nómina"]],"2":[[" ","Esta ventana se utiliza para aplicar los descuentos efectuados a los pilotos por la nómina de pensionados. Funciona igual que el punto anterior de cobros empresas."]],"5":[[" ","Cobros Nómina"]],"id":"26"})
